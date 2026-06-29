@@ -1,36 +1,15 @@
-# Local data files — NEVER commit these
 data/usage.jsonl
 data/last_run.txt
 data/*.log
 data/disabled
 data/cache/
 !data/.gitkeep
-
-# macOS
 .DS_Store
-.AppleDouble
-.LSOverride
-
-# Python
 __pycache__/
 *.py[cod]
-*$py.class
-*.egg-info/
-.pytest_cache/
 .venv/
 venv/
-
-# IDE
 .vscode/
 .idea/
 *.swp
-*.swo
-
-# Editor backups
-*~
 *.bak
-*.tmp
-
-# OS noise
-Thumbs.db
-.directory
