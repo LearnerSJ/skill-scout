@@ -35,3 +35,4 @@ Thumbs.db
 # Backups created during patching
 data/usage.jsonl.pre-redaction.bak
 scripts/*.bak
+data/last_run.txt
