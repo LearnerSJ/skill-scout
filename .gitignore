@@ -31,3 +31,7 @@ venv/
 # OS noise
 Thumbs.db
 .directory
+
+# Backups created during patching
+data/usage.jsonl.pre-redaction.bak
+scripts/*.bak
