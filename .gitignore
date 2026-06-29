@@ -1,0 +1,5 @@
+data/usage.jsonl
+data/*.log
+.DS_Store
+*.pyc
+__pycache__/
